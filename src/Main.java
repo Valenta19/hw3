@@ -13,5 +13,14 @@ public class Main {
         System.out.println( "Значение переменной wolf с типом long равно" + wolf);
         double snake = 6.5;
         System.out.println( "Значение переменной snake с типом double равно" + snake);
+
+        System.out.println("Задание 2");
+        float a = 27.12f;
+        long b = 987678965549L;
+        double c = 2.786;
+        short d = 569;
+        int i = -159;
+        int f = 27897;
+        byte g = 67;
     }
 }
