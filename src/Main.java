@@ -73,6 +73,30 @@ public class Main {
         int average = (reset250 + reset500) / 2;
         System.out.println(average + " в среднем дней");
 
+        System.out.println("Задание 8");
+
+        int salaryMasha = 67760;
+        int increaseMasha = salaryMasha / 10;
+        int newSalaryMasha = salaryMasha + increaseMasha;
+        int differenceIncomeMasha = increaseMasha * 12;
+        System.out.println("Маша теперь получает " + newSalaryMasha +  " рублей. Годовой доход вырос на " + differenceIncomeMasha + " рублей.");
+
+        int salaryDenis = 83690;
+        int increaseDenis = salaryDenis / 10;
+        int newSalaryDenis = salaryDenis + increaseDenis;
+        int differenceIncomeDenis = increaseDenis * 12;
+        System.out.println("Денис теперь получает " + newSalaryDenis +  " рублей. Годовой доход вырос на " + differenceIncomeDenis + " рублей.");
+
+        int salaryKristina = 76230;
+        int increaseKristina = salaryKristina / 10;
+        int newSalaryKristina = salaryKristina + increaseKristina;
+        int differenceIncomeKristina = increaseKristina * 12;
+        System.out.println("Кристина теперь получает " + newSalaryKristina +  " рублей. Годовой доход вырос на " + differenceIncomeKristina + " рублей.");
+
+
+
+
+
 
 
 
