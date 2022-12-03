@@ -64,6 +64,16 @@ public class Main {
         double KilogramF = TotalProducts / 1000;
         System.out.println(KilogramF + " килограмм");
 
+        System.out.println(" Задание 7 ");
+        int excessWeight = 7 * 1000;
+        int reset250 = excessWeight / 250;
+        System.out.println(reset250 + " дней ");
+        int reset500 = excessWeight / 500;
+        System.out.println(reset500 + " дней ");
+        int average = (reset250 + reset500) / 2;
+        System.out.println(average + " в среднем дней");
+
+
 
 
 
