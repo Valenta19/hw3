@@ -54,6 +54,17 @@ public class Main {
         int AllBrown = classes * BrownPaint;
         System.out.println("В школе, где " + classes + " классов, нужно " + AllWhite + " банок белой краски и " + AllBrown + " банок коричневой краски");
 
+        System.out.println("Задание 6 ");
+        int banana = 80;
+        int milk = 105;
+        int Cream = 100;
+        int agg = 70;
+        double TotalProducts = banana * 5 +  milk * 2 + Cream * 2 + agg * 4;
+        System.out.println(TotalProducts + " грамм ");
+        double KilogramF = TotalProducts / 1000;
+        System.out.println(KilogramF + " килограмм");
+
+
 
 
 
